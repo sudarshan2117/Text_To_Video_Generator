@@ -1,0 +1,14 @@
+{
+  "name": "ai-video-generator",
+  "version": "1.0.0",
+  "description": "This is a modern, attractive AI Video Generator website built with **HTML, CSS, and JavaScript**. It features a beautiful dashboard with animated robot backgrounds and a complete user interface for generating AI-powered videos.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
